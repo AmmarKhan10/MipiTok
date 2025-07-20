@@ -1,5 +1,5 @@
 const videoList = [
-  "Videos/video1.mov",
+  "Videos/video1.mp4",
   "Videos/video2.mov",
   "Videos/video3.mp4",
   "Videos/video4.mov",
